@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Jadwal Sepakbola</string>
+    <string name="previous">Previous</string>
+    <string name="upcoming">Upcoming</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+
+    <string name="last_match">Last Match</string>
+    <string name="favorite">Favorite</string>
+    <string name="home_badge">Home Badge</string>
+    <string name="vs">VS</string>
+    <string name="away_badge">Away Badge</string>
+    <string name="shots">Shooting</string>
+    <string name="goaler">Goaler</string>
+    <string name="goalkeeper">Goal Keeper</string>
+    <string name="defense">Defense</string>
+    <string name="midfield">Midfield</string>
+    <string name="forward">Forward</string>
+    <string name="substitutes">Substitute</string>
+    <string name="strmatch">Match Detail</string>
+    <string name="team_name">Real Madrid</string>
+    <string name="date">28 September 2018</string>
+    <string name="number">2</string>
+
+
+</resources>

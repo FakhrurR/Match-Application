@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+            android:id="@+id/previous"
+            android:enabled="true"
+            android:icon="@drawable/last24"
+            android:title="@string/previous"
+            app:showAsAction="ifRoom" />
+
+    <item
+            android:id="@+id/upcoming"
+            android:enabled="true"
+            android:icon="@drawable/next24"
+            android:title="@string/upcoming"
+            app:showAsAction="ifRoom" />
+
+    <item
+            android:id="@+id/favorite"
+            android:enabled="true"
+            android:icon="@drawable/fav"
+            android:title="@string/favorite"
+            app:showAsAction="ifRoom" />
+</menu>
